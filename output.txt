@@ -1,0 +1,12 @@
+Cac diem ma robot 1 da di qua la:
+251 211 157 192 215 218 263 277 236 053 133 
+Cac diem ma robot 2 da di qua la:
+200 245 182 047 114 271 244 268 122 262 007 025 
+Diem bat dau cua robot 1 la: 	0,0	voi gia tri bang: 241
+Diem bat dau cua robot 2 la: 	1,1	voi gia tri bang: 226
+So lan di chuyen cua robot 1: 11
+So lan di chuyen cua robot 2: 12
+So diem cua robot 1: 2206
+So diem cua robot 2: 1987
+	So diem cua robot 1 > So diem cua robot 2
+						Robot 1 thang
